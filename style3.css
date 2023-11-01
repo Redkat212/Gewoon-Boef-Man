@@ -1,0 +1,20 @@
+h1 {
+	color : blue;
+    font-family: "Algerian";
+}
+
+body {
+	background-color : pink;
+}
+
+#alinea1 {
+    color: darkgreen;
+
+}
+
+#alinea2 {
+    color: rgb(0, 128, 119);
+}
+body {
+    background-image: url("https://images.nrc.nl/SnpTDXNrj_JACgJSzQSA2H0Wzqk=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2020/10/web-2010culboef.jpg"); 
+  }
